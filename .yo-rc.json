@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "nl.salomons.etto",
+    "packageFolder": "nl/salomons/etto",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.4.2",
+    "jwtSecretKey": "OTFjNDA4MThkYzIyZDRhNTJkYTA0MTE3MjU1NWNlNmZjYjE2NzY2YWE5MWMwZjM1Y2E1MjdmMmIyNjAzMzY3YmI5Njk2MmVlMDU5MjZkYWQwNzlkZDc4Y2M0ODRmZDcyNDQwMjZjZjU5OWU2NWY4YWM5Y2YzYjhhMmMxOTEwMmM="
+  },
+  "git-provider": "GitHub",
+  "git-company": "ESalomons",
+  "repository-name": "jhipster-sample-application"
+}
